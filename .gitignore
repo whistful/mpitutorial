@@ -2,3 +2,4 @@ _site/
 *.swp
 *.swo
 *.o
+tutorials/mpi-hello-world/code/mpi_hello_world
